@@ -1,5 +1,5 @@
 # Sistema-de-gestao-de-farmacia
 SQlite e javaFX
 
-username: sistema
+username: sistema &&
 password: 1234
